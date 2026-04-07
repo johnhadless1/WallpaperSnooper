@@ -13,7 +13,7 @@ _Wallpaper changer app that works by choosing wallpaper then set it as wallpaper
 >[!NOTE]
 >This only uses Wallhaven API, the choosen API cannot be changed with other one. (Unless you fork it then change it into something else)
 >
->Android only.
+>Android only, minimium from 14 to lastest (im so sorry for old androud users!!!)
 >
 >Plus, no ads. I personally hate them, so no annoying ads for free ;)
 
