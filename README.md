@@ -1,5 +1,6 @@
 # WallpaperSnooper
-_Wallpaper changer app that works by choosing wallpaper then set it as wallpaper for you automatically hands free._
+
+<img width="128" height="128" alt="wallpapersnooper2" src="https://github.com/user-attachments/assets/a43ede61-5978-44ef-886e-e5222b8834d7" /> _Wallpaper changer app that works by choosing wallpaper then set it as wallpaper for you automatically hands free._
 
 >[!WARNING]
 > This project was been vibe-coded with AI (Preplexity).
@@ -23,7 +24,7 @@ _Wallpaper changer app that works by choosing wallpaper then set it as wallpaper
 >Plus, no ads. I personally hate them, so no annoying ads for no sweet load of pennies ;)
 
 
-For now, I dunno what to add there, just download the app from the Releases tab, thanks for reading or thanks for being curious about this project.
+For now, I dunno what to add there, just download the app from the Releases tab, thanks for reading or thanks for being curious about this project!
 
 [Download WallpaperSnooper APK!](https://github.com/johnhadless1/WallpaperSnooper/releases/download/Release/WallpaperSnooper.apk)
 
@@ -67,3 +68,18 @@ I had thought that I would want to add blur to future wallpapers so they look no
 > _mark my words_
 
 On Nothing phones, the Atmosphere / Glass wont work on future wallpapers. (very unfortunate..... this is reason about ^^^^^^^^)
+
+Any issues or any features ideas about this app would be appreciated! OF course, I would never add them since im pretty lazy, but if the feature idea seems pretty good to be true, then I can add it!
+
+### Why make it when there are [apps (Google Search)](https://www.google.com/search?client=firefox-b-d&channel=entpr&q=app%20that%20changes%20wallpaper%20automatically) like it exists?
+
+The reasons are:
+
+- They may be infected with lots of ads
+- No WallHaven wallpapers (API) (I really really like WallHaven with their wallpapers...)
+- 80% of wallpaper changer apps needs "stored on storage" wallpapers than getting it from internet
+- To learn how do people make Android apps (out of curiousity)
+- No customization on exactly what wallpapers you want (Tags on WallHaven) (I know there are apps has them, but this one is pretty straightforward)
+- Bit complexity on setting it up
+
+I know im acting like _"MY APP IS BETTER THAN THESE SH*T APPS!!!!"_ They are pretty better than mine ill say, but I just wanna to have app that does exactly what I would want to. ___If it works, then dont touch the code ever and continue using app as normal.___
