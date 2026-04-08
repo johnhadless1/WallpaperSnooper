@@ -82,4 +82,6 @@ The reasons are:
 - No customization on exactly what wallpapers you want (Tags on WallHaven) (I know there are apps has them, but this one is pretty straightforward)
 - Bit complexity on setting it up
 
+As im sure that there are apps that was like exactly this app on Github, but I dont research myself very enough, instead made my own :)
+
 I know im acting like _"MY APP IS BETTER THAN THESE SH*T APPS!!!!"_ They are pretty better than mine ill say, but I just wanna to have app that does exactly what I would want to. ___If it works, then dont touch the code ever and continue using app as normal.___
