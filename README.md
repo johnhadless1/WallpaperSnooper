@@ -25,6 +25,8 @@ _Wallpaper changer app that works by choosing wallpaper then set it as wallpaper
 
 For now, I dunno what to add there, just download the app from the Releases tab, thanks for reading or thanks for being curious about this project.
 
+[Download WallpaperSnooper APK!](https://github.com/johnhadless1/WallpaperSnooper/releases/download/Release/WallpaperSnooper.apk)
+
 Or even better, very much thanks for using my app if you somehow continued to using it :D
 
 ## Features "what does it do?"
