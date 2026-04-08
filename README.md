@@ -8,10 +8,15 @@ _Wallpaper changer app that works by choosing wallpaper then set it as wallpaper
 >
 > The creator has no experience on coding Kotlin, as it worked on my device, it might be fine... (Perhaps?)
 >
+>This may use your lots of storage after long of using, recommended to clear WallpaperSnooper's app cache if youre confused!!!!
+>Though, this may bit fixed in future... but the issue is im really that lazy, sooo.. sorry :(
+>
 >Though, for Samsung users or other ROMs users, its bit recommended if you would turn off Battery optimization for WallpaperSnooper.
 
 >[!NOTE]
 >This only uses Wallhaven API, the choosen API cannot be changed with other one. (Unless you fork it then change it into something else)
+>
+>This is personal project, 
 >
 >Android only, minimium from 14 to lastest (im so sorry for old androud users!!!)
 >
