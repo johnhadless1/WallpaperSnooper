@@ -18,7 +18,7 @@ _Wallpaper changer app that works by choosing wallpaper then set it as wallpaper
 >
 >This is personal project of me, but I gotta be so kind to share!
 >
->Android only, minimium from 14 to lastest (im so sorry for old androud users!!!)
+>Android only, minimium from 14 to lastest (im so sorry for old android users!!!)
 >
 >Plus, no ads. I personally hate them, so no annoying ads for no sweet load of pennies ;)
 
