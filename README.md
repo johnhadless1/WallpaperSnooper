@@ -51,11 +51,11 @@ Or even better, very much thanks for using my app if you somehow continued to us
 - Internet acesss (for downloading wallpapers)
 
 ## Screenshots
-<img width="300" height="700" alt="Screenshot" src="https://github.com/user-attachments/assets/46eb1756-a935-4584-9410-4579a4ab9a8e" />
+<img width="200" height="600" alt="Screenshot" src="https://github.com/user-attachments/assets/46eb1756-a935-4584-9410-4579a4ab9a8e" />
 
-<img width="300" height="700" alt="Screenshot1" src="https://github.com/user-attachments/assets/d1ee7b68-ec82-4353-a73e-42dbaf1dc8bc" />
+<img width="200" height="600" alt="Screenshot1" src="https://github.com/user-attachments/assets/d1ee7b68-ec82-4353-a73e-42dbaf1dc8bc" />
 
-<img width="300" height="700" alt="Screenshot2" src="https://github.com/user-attachments/assets/cad34784-d247-4304-94b9-3da3977d1bdd" />
+<img width="200" height="600" alt="Screenshot2" src="https://github.com/user-attachments/assets/cad34784-d247-4304-94b9-3da3977d1bdd" />
 
 
 ## Useless stuff but pretty good for who like to read
@@ -67,7 +67,7 @@ Though I would like worth noting, every 16:9 wallpapers or ultrawide designed wa
 I had thought that I would want to add blur to future wallpapers so they look not annoying to icons. Dont let it apply blur into lockscreen's background/wallpaper.
 > _mark my words_
 
-On Nothing phones, the Atmosphere / Glass wont work on future wallpapers. (very unfortunate..... this is reason about ^^^^^^^^)
+On Nothing phones, the Atmosphere / Glass wont work on future wallpapers. (very unfortunate..... this is reason about above here.)
 
 Any issues or any features ideas about this app would be appreciated! OF course, I would never add them since im pretty lazy, but if the feature idea seems pretty good to be true, then I can add it!
 
