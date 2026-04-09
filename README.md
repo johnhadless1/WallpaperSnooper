@@ -9,7 +9,7 @@
 >
 > The creator has no experience on coding Kotlin, as it worked on my device, it might be fine... (Perhaps?)
 >
->This may use your lots of storage after long of using, recommended to clear WallpaperSnooper's app cache if youre confused!!!!
+>This may use your slightly big storage size after long of using, recommended to clear WallpaperSnooper's app cache if youre confused!!!!
 >Though, this may bit fixed in future... but the issue is im really that lazy, sooo.. sorry :(
 >
 >Though, for Samsung users or other ROMs users, its bit recommended if you would turn off Battery optimization for WallpaperSnooper.
