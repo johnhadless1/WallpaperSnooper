@@ -41,6 +41,7 @@ Or even better, very much thanks for using my app if you somehow continued to us
 - You can change advanced settings such as resolution, type, etc... whatever man
 - It uses your system color palette and ___Material 3 You___!!!!!! (ok whatever, but at least it looks cool!!)
 - Uses tags like WallHaven would.. click on search button next to enter a tag textbox to add tag of your choice!
+- "Enough is enough" UI.
   
 ## Permissions "this is so corporate man"
 
