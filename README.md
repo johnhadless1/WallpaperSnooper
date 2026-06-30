@@ -26,6 +26,17 @@
 
 For now, I dunno what to add there, just download the app from the Releases tab, thanks for reading or thanks for being curious about this project!
 
+>[!WARNING]
+>Sorry to warn you there, added this after some time.
+>While this APK would modify something on your phone to change your wallpaper.
+>There is a __RISK__ when using this application which can corrupt your filesystem, causing unbootable.
+>I wish this isnt added here, but thats happened to my IRL friend when I shared this application to him, when we went home, he noticed that his phone isnt working anymore, it says _Can't load Android system Your data may be corrupt._
+>I'm responsible for this, though I dont wanna let this happen to __you guys__.
+>Deeply sorry about this warning, im sad that I have to let you know that there is a risk on this one.
+>My phone is still fine all along when this app is 24/7 in background. His phone is Nothing one too!
+>
+>Either way, ___USE AT YOUR RISK___
+
 [Download WallpaperSnooper APK!](https://github.com/johnhadless1/WallpaperSnooper/releases/download/Release/WallpaperSnooper.apk)
 
 > (if you have google play services, the google play protect thing will scream at you, cuz thats normal for kind of these apps, but since this project was been open sourced, you can look inside as you want.)
